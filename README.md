@@ -45,6 +45,7 @@ Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating deli
 <summary>📈 My GitHub Stats: </summary>
 
 &nbsp;
+&nbsp;
 ![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=themayurkumbhar)
 
 
