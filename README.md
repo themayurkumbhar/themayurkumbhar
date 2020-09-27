@@ -13,9 +13,9 @@
   <img align="left" alt="Mayur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-<br/>
+&nbsp;
 
-Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer 🚀 from Punr, India. 
+Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer 🚀 from Pune, India. 
 currently, I'm working with **Barclays PLC**. Previously i did my internship with *Veritas Technologies LLC*. 
 Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating delicious food :yum:.
 
