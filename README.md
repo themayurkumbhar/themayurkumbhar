@@ -28,7 +28,7 @@ Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating deli
 - 🌱 I’m currently learning AWS and Design Patterns
 - 💬 I am happy to help, Ask me about anything
 - 📫 You can reach me: [Here!](mailto:mayur.kumbhar@outlook.com) :smiley:
-- 📝 [Know More](https://drive.google.com/file/d/16GUvrpDHC38i0Kl2DrUK2sdCelo5Wchn/view)
+- 📝 [Know More](https://drive.google.com/folderview?id=1WpCOaqJHqO8GggKWLEmT_nRm42vezxe2)
 
 **Languages and Tools:**  
 
