@@ -1,7 +1,7 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
 <a href="https://twitter.com/themayurkumbhar">
-  <img align="left" alt="Mayur Kumbhar | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Mayur's' Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.linkedin.com/in/mayurkumbhar/">
   <img align="left" alt="Mayur's LinkdeIN" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
@@ -16,8 +16,8 @@
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthemayurkumbhar&label=visitors&countColor=%23263759)
 &nbsp;
 
-Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer 🚀 from Pune, India. 
-currently, I'm working with **Barclays PLC**. Previously i did my internship with *Veritas Technologies LLC*. 
+Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer ?�� from India. 
+currently, I'm working with **[GoJek tech](https://github.com/gojek)** . Previously i Workd as *Senior Software Developer* at **Barclays PLC**.
 Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating delicious food :yum:.
 
 ---
@@ -25,10 +25,10 @@ Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating deli
 **Talking about Personal Stuffs:**
 
 - ‍💻 I’m currently working on something exciting :sunglasses:
-- 🌱 I’m currently learning AWS and Design Patterns
-- 💬 I am happy to help, Ask me about anything
-- 📫 You can reach me: [Here!](mailto:mayur.kumbhar@outlook.com) :smiley:
-- 📝 [Know More](https://drive.google.com/folderview?id=1WpCOaqJHqO8GggKWLEmT_nRm42vezxe2)
+- ?�� I’m currently learning AWS and Design Patterns, [Go Lang](https://github.com/themayurkumbhar/go-fundamentals)
+- ?�� I am happy to Collaborate and help on building things.
+- ?�� You can reach me: [Here!](mailto:mayur.kumbhar@outlook.com) :smiley:
+- ?�� [Know More](https://drive.google.com/folderview?id=1WpCOaqJHqO8GggKWLEmT_nRm42vezxe2)
 
 **Languages and Tools:**  
 
