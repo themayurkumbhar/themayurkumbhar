@@ -13,7 +13,7 @@
   <img align="left" alt="Mayur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=mayukumbhar.mayukumbhar)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthemayurkumbhar&label=visitors&countColor=%23263759)
 &nbsp;
 
 Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer 🚀 from Pune, India. 
