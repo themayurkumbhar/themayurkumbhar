@@ -50,4 +50,6 @@ Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating deli
 ![Mayur's github stats](https://github-readme-stats.vercel.app/api?username=themayurkumbhar)
 
 
-
+<!-- HTML -->
+### Smile of the day 🤭
+<img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
