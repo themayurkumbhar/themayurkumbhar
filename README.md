@@ -17,7 +17,7 @@
 &nbsp;
 
 Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer 🚀 from India. 
-currently, I'm working with **[GoJek tech](https://github.com/gojek)** . Previously i Workd as *Senior Software Developer* at **Barclays PLC**.
+Currently, I'm working with **[GoJek tech](https://github.com/gojek)** . Previously I worked as *Senior Software Developer* at **Barclays PLC**.
 Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating delicious food :yum:.
 
 ---
@@ -26,7 +26,7 @@ Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating deli
 
 - ‍💻 I’m currently working on something exciting :sunglasses:
 - 🌱 I’m currently learning AWS and Design Patterns, [Go Lang](https://github.com/themayurkumbhar/go-fundamentals)
-- 💬 I am happy to Collaborate and help on building things.
+- 💬 I am happy to collaborate and help on building things.
 - 📫 You can reach me: [Here!](mailto:mayur.kumbhar@outlook.com) 😃
 - 📝 [Know More](https://drive.google.com/folderview?id=1WpCOaqJHqO8GggKWLEmT_nRm42vezxe2)
 
