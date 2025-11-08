@@ -12,23 +12,27 @@
 <a href="https://www.github.com/themayurkumbhar/">
   <img align="left" alt="Mayur's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://medium.com/@themayurkumbhar">
+  <img align="left" alt="Mayur's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
+
+
 
 ![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fthemayurkumbhar&label=visitors&countColor=%23263759)
 &nbsp;
 
-Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Full Stack Developer 🚀 from India. 
-Currently, I'm working with **[GoJek tech](https://github.com/gojek)** . Previously I worked as *Senior Software Developer* at **Barclays PLC**.
+Hi, I'm [Mayur Kumbhar](https://themayurkumbhar.github.io/), a Backend Developer 🚀 from India. 
+Currently, I'm working with **[Addepar Inc](https://addepar.com/)**. Previously I worked as *Senior Software Developer* at **[GoJek tech](https://github.com/gojek)**  and **[Barclays PLC](https://home.barclays)**.
 Beside's programming, I love Biking :bike:, Hiking :sweat_smile: and eating delicious food :yum:.
 
 ---
 
 **Talking about Personal Stuffs:**
 
-- ‍💻 I’m currently working on something exciting :sunglasses:
-- 🌱 I’m currently learning AWS and Design Patterns, [Go Lang](https://github.com/themayurkumbhar/go-fundamentals)
+- 🌱 I’m currently learning AWS and Design Patterns, [rust language](https://github.com/themayurkumbhar/rust-fundamentals)
 - 💬 I am happy to collaborate and help on building things.
 - 📫 You can reach me: [Here!](mailto:mayur.kumbhar@outlook.com) 😃
-- 📝 [Know More](https://drive.google.com/folderview?id=1WpCOaqJHqO8GggKWLEmT_nRm42vezxe2)
+- 📝 [Know More](https://drive.google.com/file/d/1Rl_e9x9z_D7omuKC1soklTz2eEDOe1G2)
 
 **Languages and Tools:**  
 
